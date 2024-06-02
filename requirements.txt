@@ -10,4 +10,4 @@ shortzy
 datetime
 pytz
 aiohttp
-git+https://github.com/NobiDeveloper/cinemagoer
+git+https://github.com/CodeXBots/cinemagoer
