@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://graph.org/file/892c62924884879d01d8a.jpg" alt="NobiDeveloper Logo">
+  <img src="https://graph.org/file/892c62924884879d01d8a.jpg" alt="CodeXBots Logo">
 </p>
 <h1 align="center">
   𝙉𝙤𝙗𝙞𝙩𝙖 𝙁𝙞𝙡𝙩𝙚𝙧 𝘽𝙤𝙩
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=NOBITA+FILTER+BOT+!;CREATED+BY+NOBI+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=NOBITA+FILTER+BOT+!;CREATED+BY+CodeXBots!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
@@ -48,9 +48,9 @@
 - [x] 𝑆𝑝𝑒𝑙𝑙𝑖𝑛𝑔 𝐶ℎ𝑒𝑐𝑘 𝐹𝑒𝑎𝑡𝑢𝑟𝑒
 - [x] 𝐹𝑖𝑙𝑒 𝑆𝑡𝑜𝑟𝑒
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
-- [x] [𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...](https://telegram.me/NobiDeveloper/1055)
+- [x] [𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...](https://telegram.me/RahulReviews/1055)
 * [@NobitaFilterBot](https://telegram.me/NobitaFilterBot)
-* 𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/NobiDeveloper'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+* 𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.me/RahulReviews'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
@@ -111,7 +111,7 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/NobiDeveloper/Nobita-Filter-Bot/blob/stream/info.py) for more optional variables
+* Check [info.py](https://github.com/CodeXBots/Nobita-Filter-Bot/blob/stream/info.py) for more optional variables
 
 
 <details>
@@ -122,25 +122,25 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://github.com/NobiDeveloper/Nobita-Filter-Bot/tree/stream">
+<p align="center"><a href="https://github.com/CodeXBots/Nobita-Filter-Bot/tree/stream">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/NobiDeveloper/Nobita-Filter-Bot&branch=stream&name=Nobita-Filter-Bot">
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBots/Nobita-Filter-Bot&branch=stream&name=Nobita-Filter-Bot">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/NobiDeveloper/Nobita-Filter-Bot/tree/stream">
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/Nobita-Filter-Bot/tree/stream">
      <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/NobiDeveloper/Nobita-Filter-Bot/tree/stream">
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/CodeXBots/Nobita-Filter-Bot/tree/stream">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p>
 <h3 align="center">
@@ -148,7 +148,7 @@
 </h3>
 <p>
 <pre>
-git clone https://github.com/NobiDeveloper/Nobita-Filter-Bot/tree/stream
+git clone https://github.com/CodeXBots/Nobita-Filter-Bot/tree/stream
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -161,14 +161,14 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.me/EvaMariaDevs)
-* [![Nobi Developer](https://img.shields.io/static/v1?label=ɴᴏʙɪ+ᴅᴇᴠᴇʟᴏᴘᴇʀ&message=Github&color=critical)](https://github.com/NobiDeveloper)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/NobiDeveloperr)
+* [![Rahul](https://img.shields.io/static/v1?label=ᴄᴏᴅᴇxʙᴏᴛꜱ&message=Github&color=critical)](https://github.com/CodeXBots)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/CodeXBro)
 
 
 ## Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Nobideveloperr)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/CodeXBro)
 
 
 ## Disclaimer
