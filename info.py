@@ -47,7 +47,7 @@ DATABASE_URI = environ.get('DATABASE_URI', "")
 DATABASE_NAME = environ.get('DATABASE_NAME', "")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
-#stream feature - @NobiDeveloper
+#stream feature - @CodeXBots
 STREAM_BIN = environ.get("STREAM_BIN", "") #Log channel
 STREAM_URL = environ.get("STREAM_URL", "")
 IS_STREAM = bool(STREAM_BIN and STREAM_URL)
@@ -61,8 +61,8 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://telegram.me/NobiDeveloperSupport')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://telegram.me/NobiDeveloper')
+GRP_LNK = environ.get('GRP_LNK', 'https://telegram.me/CodeXSupport')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://telegram.me/RahulReviews')
 TUTORIAL = environ.get('TUTORIAL', 'https://youtu.be/GdaUbzxDTKs')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
