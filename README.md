@@ -161,7 +161,7 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.me/EvaMariaDevs)
-* [![CodeXBots](https://img.shields.io/static/v1?label=ʀᴀʜᴜʟ&message=Github&color=critical)](https://github.com/CodeXBots)
+* [![CodeXBots](https://img.shields.io/static/v1?label=CodeXBots&message=Github&color=critical)](https://github.com/CodeXBots)
 * [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/CodeXBro)
 
 
